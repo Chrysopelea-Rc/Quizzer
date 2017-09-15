@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quizzer</string>
+
+    <string name="text_enter"><![CDATA[->]]></string>
+    <string name="text_true">True</string>
+    <string name="text_false">False</string>
+</resources>
