@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quizzer</string>
+    <string name="text_false">输入</string>
+    <string name="text_true">真正</string>
+    <string name="text_enter">这台电脑好</string>
+    <string name="catQuestion">猫喜欢 被子</string>
+    <string name="chiQuestion">" 大家都喜欢 Chi"</string>
+    <string name="computerQuestion">" 这台电脑好"</string>
+    <string name="vQuestion">" 没有人关心委内瑞拉"</string>
+</resources>

@@ -4,4 +4,8 @@
     <string name="text_enter"><![CDATA[->]]></string>
     <string name="text_true">True</string>
     <string name="text_false">False</string>
+    <string name="catQuestion">Cats like blankets</string>
+    <string name="chiQuestion">Everyone likes Chi</string>
+    <string name="computerQuestion">This computer is good</string>
+    <string name="vQuestion">Nobody cared about Venezuela</string>
 </resources>

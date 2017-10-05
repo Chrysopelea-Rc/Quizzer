@@ -8,13 +8,17 @@ public class Question {
     private String questionText;
     private boolean answer;
 
-    public Question(String questionText, boolean answer) {
-        this.questionText = questionText;
-        this.answer = answer;
+    public Question(String text, boolean ans) {
+        this.questionText = text;
+        this.answer = ans;
+
     }
 
     public String getQuestionText() {
         return questionText;
+    }
+    public boolean getAnswer() {
+        return answer;
     }
 
     public boolean isAnswer() {
